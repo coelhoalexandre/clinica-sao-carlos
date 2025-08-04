@@ -2,6 +2,7 @@
 
 ## Iniciando
 
+- Criar database.json com {"chats": [], "clients": []}
 - Build: npm run build
 - Banco de dados: npm run database
 - Iniciar: npm start
